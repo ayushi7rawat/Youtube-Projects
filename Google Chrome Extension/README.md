@@ -1,5 +1,4 @@
-# Youtube-Projects
-This repository contains all the code I use in my YouTube tutorials.
+# Google Chrome Extension
 
 ![alt text](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Google%20Chrome%20Extension/cover.png)
 
