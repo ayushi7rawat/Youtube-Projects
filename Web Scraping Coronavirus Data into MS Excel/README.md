@@ -1,51 +1,58 @@
-# Google Chrome Extension
+# Web Scraping Coronavirus Data into Ms-Excel
 
-![alt text](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Google%20Chrome%20Extension/cover.png)
+![alt text](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover.png)
 
-Do you use chrome extensions? Have you ever thought of making one?
+Code Walkthrough:
+==========================
+you can find a step by step walkthrough in my [Blog]()
+
+You can find a video tutorial at [YouTube]() for the same
 
 Pre-requisites:
 ==========================
 ```
+- python
+- Beautiful soup
+- pandas
 - HTML
-- Javascript
+- CSS
 ```
 
-What is a Chrome Extension?:
+What is Web Scrapping?:
 ==========================
-Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behaviour to individual needs or preferences.
+Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website. This information is collected and then exported into a format that is more useful for the user. Be it a spreadsheet or an API. 
 
-They are built on web technologies such as HTML, JavaScript, and CSS.
-
-Extension files are zipped into a single .crx package that the user downloads and installs. This means extensions do not depend on content from the web, unlike ordinary web apps.
-
-Extensions are distributed through the Chrome Developer Dashboard and published to the Chrome Web Store.
-You can [refer](https://developer.chrome.com/extensions) this. 
-
-Code Walkthrough:
+The data source:
 ==========================
-It contains two file: manifest.json and demo.html.
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
+We need a webpage to fetch the coronavirus data from. So I am using the [Worldometer](https://www.worldometers.info/coronavirus/#countries) website here.
 
-Adding the Extension:
+Required Libraries:
 ==========================
-Go the Chrome Extensions. You can click on this [link](chrome://extensions/) to navigate to the extension page.
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
+```
+pip install requests
+pip install lxml
+pip install bs4
+```
 
-Publishing the Extension:
+Steps:
 ==========================
-In order to publish your extension, you need to navigate to Chrome webstore by clicking this [link](https://chrome.google.com/webstore/devconsole/register)
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
+1. Make Requests
+2. Create Beautiful Soup object
+3. Extract the data
+4. Store the data
+5. Create DataFrame
+6. Export the data
 
 LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
 
-Youtube-Projects/Google Chrome Extension Repository is licensed under the MIT License
+This project is licensed under the MIT License
 
 My Digital Garden:
 ==========================
 I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
+- [How to make your own Google Chrome Extension](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
 - [Automate MS Teams with Python](https://dev.to/ayushi7rawat/how-to-automate-ms-teams-with-python-3g2d)
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
 - [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
