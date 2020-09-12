@@ -1,6 +1,7 @@
 # Google Chrome Extension
 
 https://www.youtube.com/watch?v=<ZWbPtPHR4hY>
+![Farmers Market Finder Demo](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Google%20Chrome%20Extension/youtube%20tutorial.gif)
 
 [![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Google%20Chrome%20Extension/cover.png)](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 
