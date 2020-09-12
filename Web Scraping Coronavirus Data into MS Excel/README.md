@@ -4,9 +4,9 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/web-scraping-coronavirus-data-into-ms-excel-560j)
 
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=CTRYYz1u7Y8) for the same
 
 Pre-requisites:
 ==========================
