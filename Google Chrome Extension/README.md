@@ -35,7 +35,7 @@ you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how
 Publishing the Extension:
 ==========================
 In order to publish your extension, you need to navigate to Chrome webstore by clicking this [link](https://chrome.google.com/webstore/devconsole/register)
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
 LICENSE:
 ==========================
