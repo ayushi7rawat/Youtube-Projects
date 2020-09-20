@@ -1,10 +1,10 @@
 # Web Scraping Coronavirus Data into Ms-Excel
 
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover.png)
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover2.png)
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/web-scraping-coronavirus-data-into-ms-excel-560j)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
 
 You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=CTRYYz1u7Y8) for the same
 
@@ -54,7 +54,6 @@ My Digital Garden:
 You can find my blogs at my [Website](https://ayushirawat.com).
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [Web Scraping Coronavirus Data into MS Excel](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
 ### The Developer Dictionary 🌱
