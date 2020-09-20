@@ -1,6 +1,6 @@
 # Web Scraping Coronavirus Data into Ms-Excel
 
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover2.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover2.png)
 
 Code Walkthrough:
 ==========================
