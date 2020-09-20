@@ -25,11 +25,11 @@ You can [refer](https://developer.chrome.com/extensions) this.
 Code Walkthrough:
 ==========================
 It contains two file: manifest.json and demo.html.
-you can find a step by step walkthrough in my [Blog](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
 Adding the Extension:
 ==========================
-Go the Chrome Extensions. You can click on this [link](chrome://extensions/) to navigate to the extension page.
+Go the Chrome Extensions. You can click on this [link](https://chrome://extensions/) to navigate to the extension page.
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
 Publishing the Extension:
