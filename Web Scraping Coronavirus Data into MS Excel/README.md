@@ -51,24 +51,42 @@ This project is licensed under the MIT License
 
 My Digital Garden:
 ==========================
-I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
-- [How to make your own Google Chrome Extension](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
-- [Automate MS Teams with Python](https://dev.to/ayushi7rawat/how-to-automate-ms-teams-with-python-3g2d)
-- [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
-- [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
-- [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
-- [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
+My Digital Garden:
+==========================
+You can find my blogs at my [Website](https://ayushirawat.com).
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
+- [Web Scraping Coronavirus Data into MS Excel](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
- 
- You can also connect with me on 
- 
- [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ayushi7rawat)](https://dev.to/ayushi7rawat) 
-   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
-   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushi7rawat)](https://medium.com/@ayushi7rawat) 
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushi7rawat@gmail.com)](mailto:ayushi7rawat@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ayushi7rawat/)](https://instagram.com/ayushi7rawat) 
-   [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008625401332)](https://www.facebook.com/people/Ayushi-Rawat/100008625401332)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayushi_rawat)](https://twitter.com/ayushi_rawat_)  
+### The Developer Dictionary 🌱
+Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
+- [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
+- [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
+- [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+
+
+ <p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+<br />
+<hr />
+
+[twitter]: https://twitter.com/ayushi7rawat
+[youtube]: https://youtube.com/ayushirawat
+[Hashnode]: https://ayushirawat.com
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+[Medium]: https://medium.com/@ayushi7rawat
+[Facebook]: https://www.facebook.com/ayushi7rawat
+
   
 If you have any Queries or Suggestions, feel free to reach out to me.
 
