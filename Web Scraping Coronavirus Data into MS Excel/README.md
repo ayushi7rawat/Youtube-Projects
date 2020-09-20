@@ -51,8 +51,6 @@ This project is licensed under the MIT License
 
 My Digital Garden:
 ==========================
-My Digital Garden:
-==========================
 You can find my blogs at my [Website](https://ayushirawat.com).
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
