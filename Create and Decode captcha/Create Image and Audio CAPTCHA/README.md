@@ -4,7 +4,7 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-create-your-own-captcha-with-python)
 
 You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=fAFIY_3OaO4) for the same
 
