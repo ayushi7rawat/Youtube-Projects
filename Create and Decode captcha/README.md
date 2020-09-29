@@ -1,4 +1,4 @@
-# Youtube-Projects
+# Create and Decode Captcha
 This repository contains all the code I use in my YouTube tutorials.
 
 | Name | Repository link | Blog Link | YouTube tutorial | 

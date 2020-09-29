@@ -1,6 +1,6 @@
 # Create Image and Audio CAPTCHA
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Web%20Scraping%20Coronavirus%20Data%20into%20MS%20Excel/cover2.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Create%20and%20Decode%20captcha/Create%20Image%20and%20Audio%20CAPTCHA/1.png)
 
 Code Walkthrough:
 ==========================
