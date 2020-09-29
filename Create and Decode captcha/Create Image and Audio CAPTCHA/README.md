@@ -4,43 +4,28 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
+you can find a step by step walkthrough in my [Blog]()
 
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=CTRYYz1u7Y8) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=fAFIY_3OaO4) for the same
 
 Pre-requisites:
 ==========================
 ```
-- python
-- Beautiful soup
-- pandas
-- HTML
-- CSS
+1. Basic knowledge about Python
+2. Basic knowledge about CAPTCHA 
+3. CAPTCHA module
 ```
 
-What is Web Scrapping?:
+What is CAPTCHA?:
 ==========================
-Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website. This information is collected and then exported into a format that is more useful for the user. Be it a spreadsheet or an API. 
+ts primary motive is to determine whether the user is a real human or a spam robot. CAPTCHA is an example of one-way conversion and a type of challenge-response test used in computing to determine whether or not the user is human.
 
-Steps:
-==========================
-1. Make Requests
-2. Create Beautiful Soup object
-3. Extract the data
-4. Store the data
-5. Create DataFrame
-6. Export the data
-
-The data source:
-==========================
-We need a webpage to fetch the coronavirus data from. So I am using the [Worldometer](https://www.worldometers.info/coronavirus/#countries) website here.
+The most common form is Image CAPTCHA. You are shown an image and if you are a real person, then you need to enter its text in a separate field.
 
 Required Libraries:
 ==========================
 ```
-pip install requests
-pip install lxml
-pip install bs4
+pip install captcha
 ```
 
 LICENSE:
