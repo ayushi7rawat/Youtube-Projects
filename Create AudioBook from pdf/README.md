@@ -61,7 +61,3 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 If you have any Queries or Suggestions, feel free to reach out to me.
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
- 
- 
- https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Create%20AudioBook%20from%20pdf/cover.png
