@@ -4,9 +4,9 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+you can find a [step by step walkthrough in my Blog](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=ZWjXbe9DOVA) for the same
+Refer the [YouTube video tutorial at for better Understanding](https://www.youtube.com/watch?v=ZWjXbe9DOVA) for the same
 
 
 Required Libraries:
