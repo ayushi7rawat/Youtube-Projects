@@ -1,6 +1,6 @@
 # Digigtal Clock with Python
 
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Digital%20Clock/cover.png)](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Digital%20Clock/cover.png)](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
 
 Pre-requisites:
 ==========================
@@ -11,7 +11,9 @@ Pre-requisites:
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+you can find a [step by step walkthrough in my Blog](https://ayushirawat.com/create-a-digital-clock-with-python). Use the link to navigate to my Blog.
+
+Check out my [YouTube Video Tutorial for the same for better Understanding!](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
 
 LICENSE:
 ==========================
