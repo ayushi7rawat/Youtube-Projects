@@ -1,40 +1,16 @@
-# Google Chrome Extension
+# Digigtal Clock with Python
 
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Google%20Chrome%20Extension/cover.png)](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
-
-Do you use chrome extensions? Have you ever thought of making one?
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Digital%20Clock/cover.png)](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 
 Pre-requisites:
 ==========================
 ```
-- HTML
-- Javascript
+- Python
+- Tkinter
 ```
-
-What is a Chrome Extension?:
-==========================
-Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behaviour to individual needs or preferences.
-
-They are built on web technologies such as HTML, JavaScript, and CSS.
-
-Extension files are zipped into a single .crx package that the user downloads and installs. This means extensions do not depend on content from the web, unlike ordinary web apps.
-
-Extensions are distributed through the Chrome Developer Dashboard and published to the Chrome Web Store.
-You can [refer](https://developer.chrome.com/extensions) this. 
 
 Code Walkthrough:
 ==========================
-It contains two file: manifest.json and demo.html.
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-
-Adding the Extension:
-==========================
-Go the Chrome Extensions. You can click on this [link](https://chrome://extensions/) to navigate to the extension page.
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-
-Publishing the Extension:
-==========================
-In order to publish your extension, you need to navigate to Chrome webstore by clicking this [link](https://chrome.google.com/webstore/devconsole/register)
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
 LICENSE:
