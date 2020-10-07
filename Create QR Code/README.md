@@ -4,7 +4,7 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-generate-qr-code-using-python)
 
 You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=I5yruIDWCNI) for the same
 
