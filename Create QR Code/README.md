@@ -1,12 +1,12 @@
 # Create your own QR Code with Python
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Create%20QR%20Code/cover.png)
 
 Code Walkthrough:
 ==========================
 you can find a step by step walkthrough in my [Blog]()
 
-You can find a video tutorial at [YouTube]( for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=I5yruIDWCNI) for the same
 
 Pre-requisites:
 ==========================
