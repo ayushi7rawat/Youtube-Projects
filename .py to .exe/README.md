@@ -1,6 +1,5 @@
-# Digigtal Clock with Python
-
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Digital%20Clock/cover.png)](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
+# Convert any .py to .exe file format
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/.py%20to%20.exe/cover.png)
 
 Pre-requisites:
 ==========================
