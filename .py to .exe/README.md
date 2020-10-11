@@ -1,6 +1,6 @@
 # Create any .py to .exe file format
 
-[Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/.py%20to%20.exe/cover.png)
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/.py%20to%20.exe/cover.png)](https://www.youtube.com/watch?v=R8V9ZeeYFtY)
 
 Pre-requisites:
 ==========================
@@ -17,9 +17,9 @@ REQUIRED LIBRARY:
 pip install pyinstaller
 ```
 
-you can find a [step by step walkthrough in my Blog](https://ayushirawat.com/create-a-digital-clock-with-python). Use the link to navigate to my Blog.
+you can find a [step by step walkthrough in my Blog](https://ayushirawat.com/convert-any-py-to-exe-with-python). Use the link to navigate to my Blog.
 
-Check out my [YouTube Video Tutorial for the same for better Understanding!](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
+Check out my [YouTube Video Tutorial for the same for better Understanding!](https://www.youtube.com/watch?v=R8V9ZeeYFtY)
 
 LICENSE:
 ==========================
