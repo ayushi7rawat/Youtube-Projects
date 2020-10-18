@@ -1,11 +1,12 @@
 # Email Slicer with Python
 
-[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Email%20Slicer/cover.png)](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
+[![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/YouTube%20Video%20Downloader/cover.png)](https://www.youtube.com/watch?v=Cw206ZAUW6Y)
 
 Pre-requisites:
 ==========================
 ```
 - Python
+- Pytube
 ```
 
 Code Walkthrough:
