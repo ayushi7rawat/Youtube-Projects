@@ -4,9 +4,9 @@
 
 Code Walkthrough:
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-generate-qr-code-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/youtube-video-downloader-using-python)
 
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=I5yruIDWCNI) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=huarJbge688) for the same
 
 Pre-requisites:
 ==========================
