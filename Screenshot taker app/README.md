@@ -2,10 +2,12 @@
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Screenshot%20taker%20app/cover.png)
 
-Code Walkthrough:
+[Blog](https://ayushirawat.com/youtube-video-downloader-using-python):
 ==========================
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/youtube-video-downloader-using-python)
 
+[YouTube](https://www.youtube.com/watch?v=huarJbge688):
+==========================
 You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=huarJbge688) for the same
 
 Pre-requisites:
