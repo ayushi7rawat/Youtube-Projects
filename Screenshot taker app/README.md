@@ -15,7 +15,7 @@ Pre-requisites:
 2. How to capture Screenshot using python
 ```
 
-What is QR Code?:
+What is a Screenshot and Introduction to PyAutoGUI?:
 ==========================
 Screenshot, also known as screen capture, is a digital image that shows the contents of a computer display. A common screenshot is created by the operating system or software running on the device. Taking, saving, and sharing screenshots can be extremely helpful.
 
