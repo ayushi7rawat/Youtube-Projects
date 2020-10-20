@@ -1,6 +1,6 @@
 # Screenshot Taker
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Create%20QR%20Code/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Screenshot%20taker%20app/cover.png)
 
 Code Walkthrough:
 ==========================
