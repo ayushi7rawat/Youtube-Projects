@@ -2,13 +2,13 @@
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Desktop%20Notifier/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/youtube-video-downloader-using-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/create-desktop-notifier-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/youtube-video-downloader-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-desktop-notifier-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=huarJbge688):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=5w37EAV4IKY):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=huarJbge688) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=5w37EAV4IKY) for the same
 
 Pre-requisites:
 ==========================
