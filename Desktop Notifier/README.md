@@ -1,6 +1,6 @@
 # Create Desktop Notifier using Python
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Screenshot%20taker%20app/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Desktop%20Notifier/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/youtube-video-downloader-using-python):
 ==========================
