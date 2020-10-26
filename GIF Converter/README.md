@@ -1,14 +1,14 @@
-# GIF Converter
+# [GIF Converter](https://www.youtube.com/watch?v=aMxHekARIHk)
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/GIF%20Converter/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/create-gif-converter-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-gif-converter-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=aMxHekARIHk):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=aMxHekARIHk) for the same
 
 Pre-requisites:
 ==========================
