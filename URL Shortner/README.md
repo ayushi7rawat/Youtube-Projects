@@ -1,14 +1,14 @@
-# [GIF Converter](https://www.youtube.com/watch?v=aMxHekARIHk)
+# [GIF Converter](https://www.youtube.com/watch?v=PDdSsex3M3E)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/URL%20Shortner/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/create-gif-converter-using-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/create-url-shortner-with-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-gif-converter-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-url-shortner-with-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=aMxHekARIHk):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=PDdSsex3M3E):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=aMxHekARIHk) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=PDdSsex3M3E) for the same
 
 What will be covered in this Blog:
 ==========================
