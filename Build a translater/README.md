@@ -1,6 +1,6 @@
 # [Build a Translator]()
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Build%20a%20translater/cover.png)
 
 [Blog: Step by Step Guide]():
 ==========================
