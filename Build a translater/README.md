@@ -1,14 +1,14 @@
-# [Build a Translator]()
+# [Build a Translator](https://youtu.be/pPvhIj7WUnY)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Build%20a%20translater/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/build-a-translator-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/build-a-translator-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://youtu.be/pPvhIj7WUnY):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://youtu.be/pPvhIj7WUnY) for the same
 
 What will be covered in this Blog:
 ==========================
