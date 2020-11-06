@@ -1,6 +1,6 @@
 # [Build a Translator](https://youtu.be/pPvhIj7WUnY)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Build%20a%20translater/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Heart%20with%20turtle/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/build-a-translator-using-python):
 ==========================
