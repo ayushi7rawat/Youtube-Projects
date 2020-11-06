@@ -1,14 +1,14 @@
-# [Build a Translator](https://youtu.be/pPvhIj7WUnY)
+# [Build a Translator](https://www.youtube.com/watch?v=F1c_aA6Ldvo)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Heart%20with%20turtle/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/build-a-translator-using-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/draw-heart-with-python-using-turtle):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/build-a-translator-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/draw-heart-with-python-using-turtle)
 
-[YouTube Video Tutorial](https://youtu.be/pPvhIj7WUnY):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=F1c_aA6Ldvo):
 ==========================
-You can find a video tutorial at [YouTube](https://youtu.be/pPvhIj7WUnY) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=F1c_aA6Ldvo) for the same
 
 What will be covered in this Blog:
 ==========================
