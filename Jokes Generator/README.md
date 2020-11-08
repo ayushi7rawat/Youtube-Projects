@@ -1,30 +1,27 @@
-# [Heart with Turtle](https://www.youtube.com/watch?v=F1c_aA6Ldvo)
+# [Jokes Generator]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Heart%20with%20turtle/cover.png)
+![Watch the video]()
 
-[Blog: Step by Step Guide](https://ayushirawat.com/draw-heart-with-python-using-turtle):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/draw-heart-with-python-using-turtle)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=F1c_aA6Ldvo):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=F1c_aA6Ldvo) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. Turtle Introduction
-2. Creating a heart with Turtle
+1. Pyjokes Introduction
+2. Generating jokes with Pyjokes
 ```
 
-Turtle Introduction:
+Pyjoke Introduction:
 ==========================
-Turtle is a pre-installed Python library. It that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as turtle.
+Pyjokes is a python library  for one line jokes for programmers (jokes as a service). This is a fun python library. It returns a random joke from the given category in the given language.
 
-The turtle has three attributes: a location, an orientation (or direction), and a pen.
-
-If you wish to know more about it, you can refer to [Turtle Documentation](https://docs.python.org/3/library/turtle.html). Use this link to navigate to the documentation.
-
+If you wish to know more about it, you can refer to [Pyjokes Documentation](https://pyjok.es/). Use this link to navigate to the documentati
 LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
