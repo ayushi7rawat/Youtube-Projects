@@ -1,14 +1,14 @@
-# [Jokes Generator]()
+# [Jokes Generator](https://www.youtube.com/watch?v=nFfItgJnX6M)
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Jokes%20Generator/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/jokes-generator-with-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/jokes-generator-with-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=nFfItgJnX6M):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=nFfItgJnX6M) for the same
 
 What will be covered in this Blog:
 ==========================
