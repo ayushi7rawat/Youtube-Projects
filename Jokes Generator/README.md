@@ -21,7 +21,8 @@ Pyjoke Introduction:
 ==========================
 Pyjokes is a python library  for one line jokes for programmers (jokes as a service). This is a fun python library. It returns a random joke from the given category in the given language.
 
-If you wish to know more about it, you can refer to [Pyjokes Documentation](https://pyjok.es/). Use this link to navigate to the documentati
+If you wish to know more about it, you can refer to [Pyjokes Documentation](https://pyjok.es/). Use this link to navigate to the documentation
+
 LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
