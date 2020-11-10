@@ -1,14 +1,14 @@
-# [Run Javascript from Python]()
+# [Run Javascript from Python](https://www.youtube.com/watch?v=dTiu7Y9j4WY)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Run%20javascript%20in%20python/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/run-javascript-from-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/run-javascript-from-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=dTiu7Y9j4WY):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=dTiu7Y9j4WY) for the same
 
 What will be covered in this Blog:
 ==========================
