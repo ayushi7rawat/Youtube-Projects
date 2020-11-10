@@ -1,6 +1,6 @@
-# [**Run Javascript from Python]()
+# [Run Javascript from Python]()
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Run%20javascript%20in%20python/cover.png)
 
 [Blog: Step by Step Guide]():
 ==========================
