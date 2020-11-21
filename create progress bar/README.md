@@ -1,31 +1,29 @@
-# [Run Javascript from Python](https://www.youtube.com/watch?v=dTiu7Y9j4WY)
+# [Create Progress Bar with Python]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Run%20javascript%20in%20python/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/create%20progress%20bar/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/run-javascript-from-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/run-javascript-from-python)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=dTiu7Y9j4WY):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=dTiu7Y9j4WY) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. Js2Py Introduction
-2. How to Run Javascript commands from inside Python script 
+1. tqdm Introduction
+2. How to Create Progress Bar
 ```
 
-Js2Py Introduction:
+`tqdm` Introduction::
 ==========================
-You can translate JavaScript to Python using Js2Py. Js2Py is a Python module which can used to translator JavaScript to Python & acts as a JavaScript interpreter written in 100% pure Python. 
+A progress bar is a graphical control element used to visualize the progression of an extended computer operation, such as a download, file transfer, or installation. We will make use of the Python library **tqdm**, to create simple progress bars which can be added in the code and make it look lively!
 
-- It translates any valid JavaScript (ECMA Script 5.1) to Python.
-- Translation is fully automatic.
-- Does not have any dependencies - uses only standard python library. 
+`tqdm` means "progress" in Arabic (*taqadum*, تقدّم) and is an abbreviation for "I love you so much" in Spanish (*te quiero demasiado*).  `tqdm` is Fast and Extensible Progress Meter.
 
-If you wish to know more about it, you can refer to [Js2Py Documentation](https://github.com/PiotrDabkowski/Js2Py). Use this link to navigate to the documentation.
+If you wish to know more about it, you can refer to [`tqdm`Documentation](https://pypi.org/project/speedtest-cli/). Use this link to navigate to the documentation. 
 
 LICENSE:
 ==========================
