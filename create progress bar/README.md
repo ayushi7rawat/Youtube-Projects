@@ -1,14 +1,14 @@
-# [Create Progress Bar with Python]()
+# [Create Progress Bar with Python](https://www.youtube.com/watch?v=wbYqz71WVvI)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/create%20progress%20bar/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/how-to-add-a-progress-bar-in-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-add-a-progress-bar-in-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=wbYqz71WVvI):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=wbYqz71WVvI) for the same
 
 What will be covered in this Blog:
 ==========================
