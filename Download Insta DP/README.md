@@ -1,29 +1,36 @@
-# [Create Progress Bar with Python](https://www.youtube.com/watch?v=wbYqz71WVvI)
+# [Create Progress Bar with Python]((https://www.youtube.com/watch?v=7C-6pCsw8gM)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/create%20progress%20bar/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Download%20Insta%20DP/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/how-to-add-a-progress-bar-in-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/download-display-picture-of-an-instagram-account-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-add-a-progress-bar-in-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/download-display-picture-of-an-instagram-account-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=wbYqz71WVvI):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=7C-6pCsw8gM):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=wbYqz71WVvI) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=7C-6pCsw8gM) for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. tqdm Introduction
-2. How to Create Progress Bar
+1. Instagram Introduction
+2. Instaloader Introduction
+3. How to Download Display Picture of an Instagram Account
 ```
 
-`tqdm` Introduction::
+`Instaloader` Introduction:
 ==========================
-A progress bar is a graphical control element used to visualize the progression of an extended computer operation, such as a download, file transfer, or installation. We will make use of the Python library **tqdm**, to create simple progress bars which can be added in the code and make it look lively!
+The *Instaloader* module is python package having great functionalities to scrap instagram, it’s functions can be used as command line utility. It can be used for download pictures (or videos) along with their captions and other metadata from Instagram.
 
-`tqdm` means "progress" in Arabic (*taqadum*, تقدّم) and is an abbreviation for "I love you so much" in Spanish (*te quiero demasiado*).  `tqdm` is Fast and Extensible Progress Meter.
+### Key Features of Instaloader:
 
-If you wish to know more about it, you can refer to [`tqdm`Documentation](https://pypi.org/project/speedtest-cli/). Use this link to navigate to the documentation. 
+- downloads **public and private profiles, hashtags, user stories, feeds and saved media**,
+- downloads **comments, geotags and captions** of each post,
+- automatically **detects profile name changes** and renames the target directory accordingly,
+- allows **fine-grained customization** of filters and where to store downloaded media,
+- automatically **resumes previously-interrupted** download iterations.
+
+If you wish to know more about it, you can refer to [Instaloader Documentation](https://instaloader.github.io/). Use this link to navigate to the documentation.
 
 LICENSE:
 ==========================
