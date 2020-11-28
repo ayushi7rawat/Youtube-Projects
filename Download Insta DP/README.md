@@ -1,4 +1,4 @@
-# [Create Progress Bar with Python]((https://www.youtube.com/watch?v=7C-6pCsw8gM)
+# [Create Progress Bar with Python](https://www.youtube.com/watch?v=7C-6pCsw8gM)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Download%20Insta%20DP/cover.png)
 
