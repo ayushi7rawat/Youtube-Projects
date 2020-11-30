@@ -1,37 +1,38 @@
-# [Random Password Generator with Python](https://www.youtube.com/watch?v=AjiGVu2xbx8)
+# [Random Password Generator with Python](https://www.youtube.com/watch?v=v7JYwG5hdYs)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Random%20Password%20Generator/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Find%20IP%20Address/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/create-a-random-password-generator-using-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/find-ip-address-of-any-website-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/create-a-random-password-generator-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/find-ip-address-of-any-website-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=AjiGVu2xbx8):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=v7JYwG5hdYs):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=AjiGVu2xbx8) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=v7JYwG5hdYs) for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. What is Password
-2. Random and String Module
-3. how to Create a Random Password Generator
+1. What is IP address?
+2. Find IP Address of any Website
 ```
 
-What is Password:
+What is IP address?:
 ==========================
-A password, sometimes called a passcode, is a memorized secret, typically a string of characters, usually used to confirm the identity of a user, In other words is a string of characters used to verify the identity of a user during the authentication process.
+The Dictionary Defination:
 
-If you wish to know more about it, you can refer to Password Wikipedia Page.
+> IP address stands for Internet Protocol address, is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
 
-Modules Used:
-==========================
+IP (Internet Protocol) Address is an address of your network hardware. An IP Address is made up of numbers or characters. All devices that are connected to an internet connection have a unique IP address
 
-### Random Module:
-Random module is used to perform the random generations. We are making use of random.sample module here. If you will observe in the output all characters will be unique. random.sample() never repeats characters. If you don’t want to repeat characters or digits in the random string, then use random.sample() but it is less secure because it will reduce the probability of combinations because we are not allowing repetitive letters and digits.
+There are are two IP versions:
 
-### String Module:
-The string module contains a number of useful constants, classes and a number of functions to process the standard python string.   
+- IPv4
+- IPv6.
+
+There are a few other types of IP addresses as well like private IP addresses, public IP addresses, static IP addresses and dynamic IP addresses.
+
+If you wish to know more about it, you can refer to IP address Wikipedia Page.  
 
 LICENSE:
 ==========================
