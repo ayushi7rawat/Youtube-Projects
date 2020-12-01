@@ -25,7 +25,7 @@ The Dictionary Definition:
 
 Zip files can come handy for a lot different things, we make use of it on a regular basis. If you wish to know more about it, you can refer to [Zip file Wikipedia Page](https://en.wikipedia.org/wiki/ZIP_(file_format)).
 
-Modules Used:
+Modules Used: 
 ==========================
 ### ZipFile Module:
 
