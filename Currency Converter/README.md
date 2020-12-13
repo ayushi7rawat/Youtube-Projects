@@ -1,6 +1,6 @@
 # [Currency Converter using Python](https://www.youtube.com/watch?v=ixB2YHGSiAQ)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Automate%20Notion/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Currency%20Converter/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/currency-converter-using-python):
 ==========================
