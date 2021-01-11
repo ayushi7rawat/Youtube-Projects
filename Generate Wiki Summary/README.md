@@ -1,14 +1,14 @@
-# [Automate WhatsApp using Python](https://www.youtube.com/watch?v=muBeg5NE5MQ)
+# [Automate WhatsApp using Python]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Automate%20WhatsApp/cover.png)
+![Watch the video]()
 
-[Blog: Step by Step Guide](https://ayushirawat.com/automate-whatsapp-using-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/automate-whatsapp-using-python)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=muBeg5NE5MQ):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=muBeg5NE5MQ) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
