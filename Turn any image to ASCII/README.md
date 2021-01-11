@@ -1,28 +1,30 @@
-# [Automate WhatsApp using Python]()
+# [Turn any Image to ASCII Art using Python](https://www.youtube.com/watch?v=AOa4T_xW9cc&t)
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Turn%20any%20image%20to%20ASCII/resources/cover3.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/turn-any-image-to-ascii-art-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/turn-any-image-to-ascii-art-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=AOa4T_xW9cc&t):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=AOa4T_xW9cc&t) for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. What is WhatsApp?
-2. Basics of pywhatkit Module
-3. Automate WhatsApp using Python
+1. What is ASCII?
+3. Basics of pywhatkit Module
+4. Converting any image to ASCII art using Python
 ```
 
-What is **WhatsApp**?:
+What is **ASCII**?:
 ==========================
-I do not think **WhatsApp** needs an introduction but for those who do now know, **WhatsApp** is a free, multiplatform messaging app that lets you make video and voice calls, send text messages, and more — all with just a Wi-Fi connection.
+ASCII, abbreviated from American Standard Code for Information Interchange.
 
-If you wish to know more about it, you can refer to [**WhatsApp** Wikipedia Page](https://en.wikipedia.org/wiki/WhatsApp). 
+ASCII is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices.
+
+If you wish to know more about it, you can refer to [**ASCII's** Wikipedia Page](https://en.wikipedia.org/wiki/ASCII). 
 
 Modules Used: 
 ==========================
