@@ -1,4 +1,4 @@
-# [Generate Wiki Summary using Python]()
+# [Generate Wiki Summary using Python](https://www.youtube.com/watch?v=uCbyOU_oEVQ)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Generate%20Wiki%20Summary/cover.png)
 
@@ -6,9 +6,9 @@
 ==========================
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/generate-wiki-summary-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=uCbyOU_oEVQ):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=uCbyOU_oEVQ) for the same
 
 What will be covered in this Blog:
 ==========================
