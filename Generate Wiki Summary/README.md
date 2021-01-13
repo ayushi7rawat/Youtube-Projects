@@ -2,9 +2,9 @@
 
 ![Watch the video]()
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/generate-wiki-summary-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/generate-wiki-summary-using-python)
 
 [YouTube Video Tutorial]():
 ==========================
@@ -13,16 +13,17 @@ You can find a video tutorial at [YouTube]() for the same
 What will be covered in this Blog:
 ==========================
 ```
-1. What is WhatsApp?
+1. What is Wikipedia?
 2. Basics of pywhatkit Module
-3. Automate WhatsApp using Python
+3. Generating Wiki Summary using Python
 ```
 
-What is **WhatsApp**?:
+What is **Wikipedia**?:
 ==========================
-I do not think **WhatsApp** needs an introduction but for those who do now know, **WhatsApp** is a free, multiplatform messaging app that lets you make video and voice calls, send text messages, and more — all with just a Wi-Fi connection.
+**Wikipedia** is a free, open content online encyclopedia created through the collaborative effort of a community of users known as **Wikipedians**. Anyone registered on the site can create an article for publication.
 
-If you wish to know more about it, you can refer to [**WhatsApp** Wikipedia Page](https://en.wikipedia.org/wiki/WhatsApp). 
+If you wish to know more about it, you can refer to [**Wiki's** Wikipedia Page](https://en.wikipedia.org/wiki/Wikipedia). 
+ 
 
 Modules Used: 
 ==========================
