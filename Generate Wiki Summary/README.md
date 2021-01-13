@@ -1,6 +1,6 @@
-# [Automate WhatsApp using Python]()
+# [Generate Wiki Summary using Python]()
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Generate%20Wiki%20Summary/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/generate-wiki-summary-using-python):
 ==========================
