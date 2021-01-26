@@ -1,14 +1,14 @@
-# [Draw Indian Flag using Python]()
+# [Draw Indian Flag using Python](https://www.youtube.com/watch?v=4gvmxgkeAjo)
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Indidan%20Flag%20with%20Turtle/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/draw-indian-flag-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/draw-indian-flag-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=4gvmxgkeAjo):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=4gvmxgkeAjo) for the same
 
 What will be covered in this Blog:
 ==========================
