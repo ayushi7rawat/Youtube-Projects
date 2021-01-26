@@ -9,7 +9,7 @@ flag = turtle.Turtle()
 
 flag.speed(3)
 flag.pensize(5)
-flag.color('#054187')
+flag.color('#000080')
 
 def draw(x, y):
     flag.penup()
@@ -25,9 +25,10 @@ for i in range(24):
 draw(0, -80)
 flag.circle(80, 360)
 
+draw(0,-90)
 
 #Green Rectangle
-flag.color('green')
+flag.color('#138808')
 flag.begin_fill()
 
 flag.forward(350)
@@ -44,8 +45,8 @@ flag.end_fill()
 
 
 #Orange Rectangle
-flag.color('orange')
-draw(-350,80)
+flag.color('#FF9933')
+draw(-350,90)
 
 flag.begin_fill()
 
@@ -59,5 +60,7 @@ flag.left(90)
 flag.forward(200)
 
 flag.end_fill()
+
+flag.hideturtle()
 
 turtle.done()
