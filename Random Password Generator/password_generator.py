@@ -4,8 +4,7 @@ Author: Ayushi Rawat
 '''
 
 #import the necessary modules!
-import random
-import string
+from random import randint
 
 print('hello, Welcome to Password generator!')
 
@@ -13,18 +12,12 @@ print('hello, Welcome to Password generator!')
 length = int(input('\nEnter the length of password: '))                      
 
 #define data
-lower = string.ascii_lowercase
-upper = string.ascii_uppercase
-num = string.digits
-symbols = string.punctuation
+low = 32
+up = 126 
 #string.ascii_letters
 
 #combine the data
-all = lower + upper + num + symbols
-
-#use random 
-temp = random.sample(all,length)
-
+temp = [chr(randint(low, up)) for x in range(length)]
 #create the password 
 password = "".join(temp)
 
