@@ -1,38 +1,29 @@
-# [Draw Indian Flag using Python](https://www.youtube.com/watch?v=4gvmxgkeAjo)
+# [Automate Whatsapp | Facebook | Instagram (any)Chat-Messenger with Python]( )
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Indidan%20Flag%20with%20Turtle/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Automate%20any%20Chat-messanger/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/draw-indian-flag-using-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/draw-indian-flag-using-python)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=4gvmxgkeAjo):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=4gvmxgkeAjo) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. Turtle Introduction
-2. Creating an Indian Flag with Turtle
+1. PyAutoGUI Introduction
+2. Automating Whatsapp | Facebook | Instagram Chat-Messenger
 ```
 
-What is Turtle?:
+What is PyAutoGUI?:
 ==========================
-`Turtle` is a pre-installed Python library. It that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as **turtle**. 
+- PyAutoGUI is a cross-platform GUI automation Python module.
+- PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.
+- PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
 
-The turtle has three attributes: a location, an orientation (or direction), and a pen.
-
-### Moving the Turtle Head
-
-The turtle can move in four directions:
-
-- Forward
-- Backward
-- Left
-- Right
-
-If you wish to know more about it, you can refer to [Turtle Documentation](https://docs.python.org/3/library/turtle.html). Use this link to navigate to the documentation.
+If you wish to know more about it, you can refer to [PyAutoGUI Documentation](https://pyautogui.readthedocs.io/en/latest/). Use this link to navigate to the documentation.
 
 LICENSE:
 ==========================
