@@ -1,6 +1,6 @@
-# [Automate Whatsapp | Facebook | Instagram (any)Chat-Messenger](https://www.youtube.com/watch?v=6dy8wl0x-oc)
+# [Fetch data of any Country with Python using Countryinfo](https://www.youtube.com/watch?v=6dy8wl0x-oc)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Automate%20any%20Chat-messanger/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Fetch%20data%20of%20any%20country/Cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/automate-any-chat-messenger-with-python):
 ==========================
@@ -13,17 +13,17 @@ You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=6dy8w
 What will be covered in this Blog:
 ==========================
 ```
-1. PyAutoGUI Introduction
+1. Countryinfo Introduction
 2. Automating Whatsapp | Facebook | Instagram Chat-Messenger
 ```
 
-What is PyAutoGUI?:
+What is Countryinfo?:
 ==========================
-- PyAutoGUI is a cross-platform GUI automation Python module.
-- PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.
-- PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
+`Countryinfo` is a python module for returning data about countries, ISO info and states/provinces within them. To access one of the country properties available, you’ll need to use one of the API methods.
 
-If you wish to know more about it, you can refer to [PyAutoGUI Documentation](https://pyautogui.readthedocs.io/en/latest/). Use this link to navigate to the documentation.
+If you wish to know more about it, you can refer to [Countryinfo Documentation](https://pypi.org/project/countryinfo/#api-usage). Use this link to navigate to the documentation.
+
+Now that you are familiar with *with our agenda* and have acquired basic knowledge of *Countryinfo module,* we can move forward to *the coding section.*
 
 LICENSE:
 ==========================
