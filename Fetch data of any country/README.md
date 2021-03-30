@@ -1,14 +1,14 @@
-# [Fetch data of any Country with Python using Countryinfo](https://www.youtube.com/watch?v=6dy8wl0x-oc)
+# [Fetch data of any Country with Python using Countryinfo](https://www.youtube.com/watch?v=Eb3naUPN3G8)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Fetch%20data%20of%20any%20country/Cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/automate-any-chat-messenger-with-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/fetch-all-information-of-any-country-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/automate-any-chat-messenger-with-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=6dy8wl0x-oc):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=Eb3naUPN3G8):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=6dy8wl0x-oc) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=Eb3naUPN3G8) for the same
 
 What will be covered in this Blog:
 ==========================
