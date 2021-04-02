@@ -1,29 +1,34 @@
-# [Fetch data of any Country with Python using Countryinfo](https://www.youtube.com/watch?v=Eb3naUPN3G8)
+# [Fetch data of any Country with Python using Countryinfo]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Fetch%20data%20of%20any%20country/Cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Fetch%20details%20of%20any%20Movie/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/fetch-all-information-of-any-country-using-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=Eb3naUPN3G8):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=Eb3naUPN3G8) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. Countryinfo Introduction
-2. Automating Whatsapp | Facebook | Instagram Chat-Messenger
+1. IMDbPY Introduction
+2. Search for a Movie title
+3. Fetch movie info
+4. List actor info
+5. Fetch top/bottom 10 movies 
 ```
 
-What is Countryinfo?:
+What is IMDbPY?:
 ==========================
-`Countryinfo` is a python module for returning data about countries, ISO info and states/provinces within them. To access one of the country properties available, you’ll need to use one of the API methods.
+`IMDbPY` is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. `IMDbPY`:
 
-If you wish to know more about it, you can refer to [Countryinfo Documentation](https://pypi.org/project/countryinfo/#api-usage). Use this link to navigate to the documentation.
+- Is Platform-independent
+- Is written in Python 3
+- Can retrieve data from both the IMDb’s web server and a local copy of the whole database.
 
-Now that you are familiar with *with our agenda* and have acquired basic knowledge of *Countryinfo module,* we can move forward to *the coding section.*
+If you wish to know more about it, you can refer to [IMDbPY Documentation](https://imdbpy.readthedocs.io/en/latest/). Use this link to navigate to the documentation.
 
 LICENSE:
 ==========================
