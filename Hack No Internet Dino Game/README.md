@@ -13,22 +13,15 @@ You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=qG4G_
 What will be covered in this Blog:
 ==========================
 ```
-1. IMDbPY Introduction
-2. Search for a Movie title
-3. Fetch movie info
-4. List actor info
-5. Fetch top/bottom 10 movies 
+1. Countryinfo Introduction
+2. Fetching data of any Country
 ```
 
-What is IMDbPY?:
+What is No Internet Dino Game?:
 ==========================
-`IMDbPY` is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. `IMDbPY`:
+Make sure you are not connected to Internet. Now, open your Google chrome and search for anything and hit enter.
 
-- Is Platform-independent
-- Is written in Python 3
-- Can retrieve data from both the IMDb’s web server and a local copy of the whole database.
-
-If you wish to know more about it, you can refer to [IMDbPY Documentation](https://imdbpy.readthedocs.io/en/latest/). Use this link to navigate to the documentation.
+Voila, you have the Dino game right in-front of you. Just hit space bar to start the Game.
 
 LICENSE:
 ==========================
