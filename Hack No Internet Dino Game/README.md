@@ -1,6 +1,6 @@
 # [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Fetch%20details%20of%20any%20Movie/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Hack%20No%20Internet%20Dino%20Game/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game):
 ==========================
