@@ -1,6 +1,6 @@
 # [Case style in Programming]()
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Case%20style%20in%20programming/cover.png)
 
 [Blog: Step by Step Guide]():
 ==========================
