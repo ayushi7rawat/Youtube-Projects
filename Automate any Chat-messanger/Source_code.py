@@ -1,23 +1,66 @@
-'''
-Automate Whatsapp | Facebook | Instagram (any)Chat-Messenger with Python
-Author: Ayushi Rawat
-'''
-
 #import the necessary module!
-import pyautogui
-import time
+from pyautogui import click 
+from pyautogui import typewrite
+from pyautogui import press
+from pyautogui import locateOnScreen
+from time import sleep 
 
-#Use sleep to introduce some time margin for user to place the cursor at the right place.
-time.sleep(5)
+Messengers = ("Whatsapp","Instagram","Facebook")
 
-#Store the text you wish to use for Automation
-text = 'I Love Python'
+def typed(text):
+    while(True):
+        sleep(5)
+        typewrite(text)
+        press("Enter")
 
-#Enclose the code in an indefinite loop!
-while True:
-    pyautogui.typewrite(text)
+
+def thelocater(target_client,text):
+
+
+    if target_client == 1:
+        target_click = locateOnScreen("instagramtext.png")
+        click(target_click)
+        print("Clicked In The Message Box")
+        typed(text)
+
+
+
+    if target_client == 0:
+        target_click = locateOnScreen("whatsapptext.png")
+        click(target_click)
+        print("Clicked In The Message Box")
+        typed(text)
+
     
-    time.sleep(1)
-    pyautogui.press('enter')
+        
+    if  target_client == 2:
+        target_click = locateOnScreen("facebooktext.png")
+        click(target_click)
+        print("Clicked In The Message Box")
+        typed(text)
 
+        
+
+
+
+
+def main():
+    print("Enter The Client Number:")
+    print("0.Whatsapp 1.Instagram 2.Facebook")
+    target = int(input("Enter The Number:"))
+    target_client = Messengers[target]
+    print("Enter The Text")
+    text = input("Here:")
+    print("Default Sleep Time Is 5 Seconds")
+    print("Open The Website On The Side and Run This Script On the Other Side")
+    print("Starting in 5 Seconds!!")
+    sleep(5)
+    print("Using:"+ target_client,"Message:" + text)
+    thelocater(target,text)
+
+try:
+    main()
+except ImportError:
+    print("Import Error")
+    print("Use pip install pillow and Try Again")
 
