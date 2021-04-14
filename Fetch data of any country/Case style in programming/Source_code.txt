@@ -1,0 +1,33 @@
+'''
+Case Style in Programming: Snake case, Camel Case, Pascal case & Kebab case      
+Author: Ayushi Rawat
+'''
+
+#1. Camel case
+#Raw: hello world!
+
+#Output:
+helloWorld!
+
+2. Snake case
+#Raw: my name is Ayushi
+
+#Output:
+my_name_is_Ayushi
+
+#2.1. Capitalized Snake Case
+#Raw: max student marks
+
+#Output:
+MAX_STUDENT_MARKS
+
+3. Kebab case
+#Raw: total student count
+
+#Output:
+total-student-count
+
+4. Pascal case	
+#Raw: python is cool
+
+#Output:PythonIsCool
