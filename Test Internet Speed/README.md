@@ -1,10 +1,10 @@
-# [Run Javascript from Python]()
+# [Internet Speed Test using Python](https://ayushirawat.com/internet-speed-test-using-python)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Test%20Internet%20Speed/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/internet-speed-test-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/internet-speed-test-using-python)
 
 [YouTube Video Tutorial](https://www.youtube.com/watch?v=dTiu7Y9j4WY):
 ==========================
