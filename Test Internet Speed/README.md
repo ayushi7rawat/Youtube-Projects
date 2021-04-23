@@ -1,10 +1,10 @@
-# [Run Javascript from Python](https://www.youtube.com/watch?v=dTiu7Y9j4WY)
+# [Run Javascript from Python]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Run%20javascript%20in%20python/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Test%20Internet%20Speed/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/run-javascript-from-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/run-javascript-from-python)
+you can find a step by step walkthrough in my [Blog]()
 
 [YouTube Video Tutorial](https://www.youtube.com/watch?v=dTiu7Y9j4WY):
 ==========================
@@ -13,19 +13,17 @@ You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=dTiu7
 What will be covered in this Blog:
 ==========================
 ```
-1. Js2Py Introduction
-2. How to Run Javascript commands from inside Python script 
+1. speedtest Introduction
+2. How to Test internet speed
 ```
 
-Js2Py Introduction:
+Speedtest Introduction:
 ==========================
-You can translate JavaScript to Python using Js2Py. Js2Py is a Python module which can used to translator JavaScript to Python & acts as a JavaScript interpreter written in 100% pure Python. 
+The internet connections in our homes and offices can differ by internet service providers (ISPs), allowable traffic limit, and most importantly speed. So what do you usually do when you want to test the speed our connection? You google it, right? How about testing the internet speed using Python from your machine!
 
-- It translates any valid JavaScript (ECMA Script 5.1) to Python.
-- Translation is fully automatic.
-- Does not have any dependencies - uses only standard python library. 
+Speedtest cli library provides Command line interface for testing internet bandwidth using speedtest.net
 
-If you wish to know more about it, you can refer to [Js2Py Documentation](https://github.com/PiotrDabkowski/Js2Py). Use this link to navigate to the documentation.
+If you wish to know more about it, you can refer to [Speedtest Documentation](https://pypi.org/project/speedtest-cli/). Use this link to navigate to the documentation.
 
 LICENSE:
 ==========================
