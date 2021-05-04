@@ -5,22 +5,17 @@
 </p>
  
 [Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
-==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-perform-google-search-using-python)
+You can find a step by step walkthrough in my [**Blog**](https://ayushirawat.com/how-to-perform-google-search-using-python)
 
 [YouTube Video Tutorial](https://www.youtube.com/watch?v=JO_2EjW0jSM):
-==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
+You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
 
-What will be covered in this Blog:
-==========================
-```
-1. What is Google search?
-3. Basics of pywhatkit Module
-4. Performing a Google search using Python
-```
+## What will be covered in this Blog:
+   - What is Google search?
+   - Basics of pywhatkit Module
+   - Performing a Google search using Python
 
-What is  Google search?:
+## What is  Google search?:
 ==========================
 I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms.
 
