@@ -1,41 +1,32 @@
-# [How to Perform Google Search using Python](https://www.youtube.com/watch?v=JO_2EjW0jSM)
+<p align="center"><a href="https://www.youtube.com/watch?v=JO_2EjW0jSM"><img src="https://img.shields.io/badge/-PERFORM GOOGLE SEARCH-black?logo=google&logoColor=red&style=flat-square"></a><p/>
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
+<p align="center">
+<img src="https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png" width="500px">
+</p>
+ 
+## [**Blog: Step by Step Guide**](https://ayushirawat.com/how-to-perform-google-search-using-python):
+You can find a step by step walkthrough in my [**Blog**](https://ayushirawat.com/how-to-perform-google-search-using-python)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
-==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-perform-google-search-using-python)
+## [**YouTube Video Tutorial**](https://www.youtube.com/watch?v=JO_2EjW0jSM):
+You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=JO_2EjW0jSM):
-==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
+## What will be covered in this Blog?
+   - What is Google search?
+   - Basics of pywhatkit Module
+   - Performing a Google search using Python
 
-What will be covered in this Blog:
-==========================
-```
-1. What is Google search?
-3. Basics of pywhatkit Module
-4. Performing a Google search using Python
-```
+## What is  Google search?
+   - I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms. 
+   - If you wish to know more about it, you can refer to [**Google's Wikipedia Page**](https://en.wikipedia.org/wiki/Google).
 
-What is  Google search?:
-==========================
-I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms.
+## Modules Used:
+   - PyWhatKit Module:
+       - [**PyWhatKit**](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
+       - This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
+       - If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
 
-If you wish to know more about it, you can refer to [Google's Wikipedia Page](https://en.wikipedia.org/wiki/Google).
+## LICENSE:
 
-Modules Used: 
-==========================
-### PyWhatKit Module:
-
-[PyWhatKit](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
-
-This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
-
-If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
-
-LICENSE:
-==========================
 Copyright (c) 2020 Ayushi Rawat
 
 This project is licensed under the MIT License
@@ -81,7 +72,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
-
   
 If you have any Queries or Suggestions, feel free to reach out to me.
 
