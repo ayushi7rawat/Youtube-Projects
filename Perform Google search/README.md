@@ -1,7 +1,9 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=JO_2EjW0jSM"><img src="https://img.shields.io/badge/-PERFORM GOOGLE SEARCH-black?logo=google&logoColor=red&style=flat-square"></a><p/>
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
-
+<p align="center">
+<img src="https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png" width="200px">
+</p>
+ 
 [Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
 ==========================
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-perform-google-search-using-python)
