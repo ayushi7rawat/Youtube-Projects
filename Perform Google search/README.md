@@ -1,4 +1,4 @@
-<p3 align="center"><a href="https://www.youtube.com/watch?v=JO_2EjW0jSM"><img src="https://img.shields.io/badge/-PERFORM GOOGLE SEARCH-black?logo=google&logoColor=red&style=flat-square"></a><p/>
+<p align="center"><a href="https://www.youtube.com/watch?v=JO_2EjW0jSM"><img src="https://img.shields.io/badge/-PERFORM GOOGLE SEARCH-black?logo=google&logoColor=red&style=flat-square"></a><p/>
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
 
