@@ -15,7 +15,7 @@ You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=J
    - Basics of pywhatkit Module
    - Performing a Google search using Python
 
-## What is  Google search?:
+## What is  Google search?
    - I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms. 
    - If you wish to know more about it, you can refer to [**Google's Wikipedia Page**](https://en.wikipedia.org/wiki/Google).
 
@@ -25,7 +25,7 @@ You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=J
        - This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
        - If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
 
-LICENSE:
+## LICENSE:
 
 Copyright (c) 2020 Ayushi Rawat
 
@@ -64,7 +64,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
-<p align="center">
+
 [twitter]: https://twitter.com/ayushi7rawat
 [youtube]: https://youtube.com/ayushirawat
 [Hashnode]: https://ayushirawat.com
@@ -72,7 +72,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
-</p>
   
 If you have any Queries or Suggestions, feel free to reach out to me.
 
