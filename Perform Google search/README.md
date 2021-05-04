@@ -4,13 +4,13 @@
 <img src="https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png" width="500px">
 </p>
  
-[Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
+## [**Blog: Step by Step Guide**](https://ayushirawat.com/how-to-perform-google-search-using-python):
 You can find a step by step walkthrough in my [**Blog**](https://ayushirawat.com/how-to-perform-google-search-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=JO_2EjW0jSM):
+## [**YouTube Video Tutorial**](https://www.youtube.com/watch?v=JO_2EjW0jSM):
 You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
 
-## What will be covered in this Blog:
+## What will be covered in this Blog?
    - What is Google search?
    - Basics of pywhatkit Module
    - Performing a Google search using Python
