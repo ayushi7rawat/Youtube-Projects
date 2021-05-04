@@ -1,28 +1,28 @@
-# [Automate WhatsApp using Python]()
+# [How to Perform Google Search using Python](https://www.youtube.com/watch?v=JO_2EjW0jSM)
 
 ![Watch the video]()
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-perform-google-search-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=JO_2EjW0jSM):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. What is WhatsApp?
-2. Basics of pywhatkit Module
-3. Automate WhatsApp using Python
+1. What is Google search?
+3. Basics of pywhatkit Module
+4. Performing a Google search using Python
 ```
 
-What is **WhatsApp**?:
+What is  Google search?:
 ==========================
-I do not think **WhatsApp** needs an introduction but for those who do now know, **WhatsApp** is a free, multiplatform messaging app that lets you make video and voice calls, send text messages, and more — all with just a Wi-Fi connection.
+I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms.
 
-If you wish to know more about it, you can refer to [**WhatsApp** Wikipedia Page](https://en.wikipedia.org/wiki/WhatsApp). 
+If you wish to know more about it, you can refer to [Google's Wikipedia Page](https://en.wikipedia.org/wiki/Google).
 
 Modules Used: 
 ==========================
