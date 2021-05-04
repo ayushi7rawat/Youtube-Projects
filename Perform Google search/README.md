@@ -16,10 +16,8 @@ You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=J
    - Performing a Google search using Python
 
 ## What is  Google search?:
-==========================
-I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms.
-
-If you wish to know more about it, you can refer to [Google's Wikipedia Page](https://en.wikipedia.org/wiki/Google).
+   - I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms. 
+   - If you wish to know more about it, you can refer to [**Google's Wikipedia Page**](https://en.wikipedia.org/wiki/Google).
 
 Modules Used: 
 ==========================
