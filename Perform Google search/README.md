@@ -1,6 +1,6 @@
 # [How to Perform Google Search using Python](https://www.youtube.com/watch?v=JO_2EjW0jSM)
 
-![Watch the video]()
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
 ==========================
