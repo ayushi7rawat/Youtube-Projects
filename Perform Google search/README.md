@@ -22,13 +22,11 @@ You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=J
 ## Modules Used:
    - PyWhatKit Module:
        - [**PyWhatKit**](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
-
-This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
-
-If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
+       - This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
+       - If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
 
 LICENSE:
-==========================
+
 Copyright (c) 2020 Ayushi Rawat
 
 This project is licensed under the MIT License
@@ -66,7 +64,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
-
+<p align="center">
 [twitter]: https://twitter.com/ayushi7rawat
 [youtube]: https://youtube.com/ayushirawat
 [Hashnode]: https://ayushirawat.com
@@ -74,7 +72,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
-
+</p>
   
 If you have any Queries or Suggestions, feel free to reach out to me.
 
