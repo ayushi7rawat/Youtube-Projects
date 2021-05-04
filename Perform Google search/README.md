@@ -19,11 +19,9 @@ You can find a video tutorial at [**YouTube**](https://www.youtube.com/watch?v=J
    - I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms. 
    - If you wish to know more about it, you can refer to [**Google's Wikipedia Page**](https://en.wikipedia.org/wiki/Google).
 
-Modules Used: 
-==========================
-### PyWhatKit Module:
-
-[PyWhatKit](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
+## Modules Used:
+   - PyWhatKit Module:
+       - [**PyWhatKit**](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
 
 This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
 
