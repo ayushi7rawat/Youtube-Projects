@@ -1,4 +1,4 @@
-# [GIF Converter](https://www.youtube.com/watch?v=PDdSsex3M3E)
+# [URL Shortener](https://www.youtube.com/watch?v=PDdSsex3M3E)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/URL%20Shortner/cover.png)
 
