@@ -1,6 +1,6 @@
 # [Weather Forecast with Python]()
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Weather%20Forecast/cover.png)
 
 [Blog: Step by Step Guide]():
 ==========================
