@@ -1,14 +1,14 @@
-# [Weather Forecast with Python]()
+# [Weather Forecast with Python](https://www.youtube.com/watch?v=jAVVtOzQ5ww)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Weather%20Forecast/cover.png)
 
-[Blog: Step by Step Guide]():
+[Blog: Step by Step Guide](https://ayushirawat.com/forecast-weather-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog]()
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/forecast-weather-using-python)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=jAVVtOzQ5ww):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=jAVVtOzQ5ww) for the same
 
 What will be covered in this Blog:
 ==========================
