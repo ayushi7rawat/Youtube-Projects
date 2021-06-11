@@ -1,38 +1,40 @@
-# [How to Perform Google Search using Python](https://www.youtube.com/watch?v=JO_2EjW0jSM)
+# [Weather Forecast with Python]()
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Perform%20Google%20search/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/how-to-perform-google-search-using-python):
+[Blog: Step by Step Guide]():
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/how-to-perform-google-search-using-python)
+you can find a step by step walkthrough in my [Blog]()
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=JO_2EjW0jSM):
+[YouTube Video Tutorial]():
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=JO_2EjW0jSM) for the same
+You can find a video tutorial at [YouTube]() for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. What is Google search?
-3. Basics of pywhatkit Module
-4. Performing a Google search using Python
+1.	What is wttr?
+2.	What is requests Module
+3.	How to forecast weather using Python
 ```
 
-What is  Google search?:
-==========================
-I do not think Google search needs an introduction here but for those who do not know, Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms.
+## What is wttr?
 
-If you wish to know more about it, you can refer to [Google's Wikipedia Page](https://en.wikipedia.org/wiki/Google).
+> wttr — the right way to check the weather!
 
-Modules Used: 
-==========================
-### PyWhatKit Module:
+wttr.in is a console-oriented weather forecast service that supports various information representation methods like terminal-oriented ANSI-sequences for console HTTP clients (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
 
-[PyWhatKit](https://pypi.org/project/pywhatkit/) is a Python library with various helpful features. It is an easy to use library which does not requires you to do some additional setup. 
+wttr.in uses [wego](http://github.com/schachmat/wego) for visualization and various data sources for weather forecast information.
 
-This module has lots of other cool features as well. Feel free and go ahead to explore them or if you wish I can write an article about them.
+If you wish to know more about it, you can refer to [**wttr's** GitHub Repo](https://github.com/chubin/wttr.in).
 
-If you wish to know more about it, you can refer to [**pywhatkit Module** Documentation](https://github.com/Ankit404butfound/PyWhatKit). 
+## Module Used:
+
+### requests Module:
+
+**Requests** is a simple, yet elegant HTTP library. It allows you to send HTTP/1.1 requests extremely easily. Requests officially supports Python 2.7 & 3.5+.
+
+If you wish to know more about it, you can refer to [**Requests Module** Documentation](https://docs.python-requests.org/en/master/).
 
 LICENSE:
 ==========================
@@ -44,12 +46,12 @@ My Digital Garden:
 ==========================
 You can find my blogs at my [Website](https://ayushirawat.com).
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
-- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
-- [How to make Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [Create Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
-- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+- [Run Javascript from Python](https://ayushirawat.com/run-javascript-from-python)
+- [Automate WhatsApp using Python](https://ayushirawat.com/automate-whatsapp-using-python)
+- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [What is Competitive Programming](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
