@@ -1,6 +1,6 @@
 # [Build Break Scheduler with Python](https://www.youtube.com/watch?v=jAVVtOzQ5ww)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Weather%20Forecast/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Break%20Scheduler/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/forecast-weather-using-python):
 ==========================
