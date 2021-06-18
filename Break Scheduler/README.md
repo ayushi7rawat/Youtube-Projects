@@ -1,14 +1,14 @@
-# [Build Break Scheduler with Python](https://www.youtube.com/watch?v=jAVVtOzQ5ww)
+# [Build Break Scheduler with Python](https://www.youtube.com/watch?v=qF8QG7Fr1Vk)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Break%20Scheduler/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/forecast-weather-using-python):
+[Blog: Step by Step Guide](https://ayushirawat.com/build-a-break-scheduler-using-python):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/forecast-weather-using-python)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/build-a-break-scheduler-using-python)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=jAVVtOzQ5ww):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=qF8QG7Fr1Vk):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=jAVVtOzQ5ww) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=qF8QG7Fr1Vk) for the same
 
 What will be covered in this Blog:
 ==========================
