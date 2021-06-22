@@ -6,7 +6,7 @@ By: Ayushi Rawat
 #import the necessary package!
 import requests
 
-input the city name
+#input the city name
 city = input('input the city name')
 print(city)
 
