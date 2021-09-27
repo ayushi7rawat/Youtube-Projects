@@ -1,4 +1,4 @@
-# [What is Hacktoberfest? Hacktoberfest 101]()
+# [What is Hacktoberfest? Hacktoberfest 101](https://www.youtube.com/watch?v=N7mCkGjX6vk)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Hacktoberfest%202021/cover.png)
 
@@ -6,9 +6,9 @@
 ==========================
 you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/what-is-hacktoberfest)
 
-[YouTube Video Tutorial]():
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=N7mCkGjX6vk):
 ==========================
-You can find a video tutorial at [YouTube]() for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=N7mCkGjX6vk) for the same
 
 What will be covered in this Blog:
 ==========================
