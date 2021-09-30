@@ -1,6 +1,6 @@
 # [What is Hacktoberfest? Hacktoberfest 101](https://www.youtube.com/watch?v=xBPFzXa9Fio)
 
-![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Hacktoberfest%202021/cover.png)
+![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Beginner's%20guide%20to%20Hacktoberfest/cover.png)
 
 [Blog: Step by Step Guide](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021):
 ==========================
