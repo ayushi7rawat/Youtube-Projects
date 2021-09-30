@@ -1,34 +1,27 @@
-# [What is Hacktoberfest? Hacktoberfest 101](https://www.youtube.com/watch?v=N7mCkGjX6vk)
+# [What is Hacktoberfest? Hacktoberfest 101](https://www.youtube.com/watch?v=xBPFzXa9Fio)
 
 ![Watch the video](https://github.com/ayushi7rawat/Youtube-Projects/blob/master/Hacktoberfest%202021/cover.png)
 
-[Blog: Step by Step Guide](https://ayushirawat.com/what-is-hacktoberfest):
+[Blog: Step by Step Guide](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021):
 ==========================
-you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/what-is-hacktoberfest)
+you can find a step by step walkthrough in my [Blog](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
 
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=N7mCkGjX6vk):
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=xBPFzXa9Fio):
 ==========================
-You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=N7mCkGjX6vk) for the same
+You can find a video tutorial at [YouTube](https://www.youtube.com/watch?v=xBPFzXa9Fio) for the same
 
 What will be covered in this Blog:
 ==========================
 ```
-1. What is Open Source?
-2. What is Hacktoberfest?
-3. Who can Join?
-4. PERKS of participating
-5. Global Stats for Hacktoberfest 2020
+1. What is Hacktoberfest?
+2. How does it work? 
+3. How can you Join?
+4. When can you join
+5. How to earn a Swag kit?
+6. Rules
+7. What not to do!
+8. FAQs
 ```
-
-What is **Open Source**?:
-==========================
-According to Wikipedia,
-
-Open-source is source code that is made freely available for possible modification and redistribution.
-
-When some source code is made Open source, it includes permission to use, modify, contribute to the existing source code. The use of the term originated with the software but has expanded beyond the software sector to collaboration and contribution.
-
-Open-source projects that are hosted in public repositories benefit from contributions made by the broader developer community and are typically managed through Git. 
 
 What is **Hacktoberfest**?:
 ==========================
@@ -38,6 +31,16 @@ Hacktoberfest is a month-long challenge. It happens every year in the month of O
 Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR. Hacktoberfest encourages participation in giving back to the open-source community by completing pull requests, participating in events, and donating to open source projects. Also, all backgrounds and skills levels are encouraged to complete the challenge.
 
 Of course, to participate, you must have a GitHub account first. New to GitHub? Check out my GitHub Blog and Playlist to learn more.
+
+How does it work?:
+==========================
+- Maintainers determine if their open-source projects participate.
+- [Quality pull requests](https://hacktoberfest.digitalocean.com/resources/qualitystandards) submitted on GitHub and GitLab are rewarded.
+- [Engaged maintenance](https://hacktoberfest.digitalocean.com/resources/maintainers) of Hacktoberfest tagged repositories are rewarded.
+
+When can you join?:
+==========================
+Registrations are now open but you can sign up anytime between October 1 and October 31 in any time-zone. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.enance](https://hacktoberfest.digitalocean.com/resources/maintainers) of Hacktoberfest tagged repositories are rewarded.
 
 LICENSE:
 ==========================
