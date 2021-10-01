@@ -20,7 +20,7 @@ What will be covered in this Blog:
 5. Global Stats for Hacktoberfest 2020
 ```
 
-What is **Open Source**?:
+What is **Open Source**?: 
 ==========================
 According to Wikipedia,
 
