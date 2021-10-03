@@ -40,8 +40,7 @@ How does it work?:
 
 When can you join?:
 ==========================
-Registrations are now open but you can sign up anytime between October 1 and October 31 in any time-zone. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.enance](https://hacktoberfest.digitalocean.com/resources/maintainers) of Hacktoberfest tagged repositories are rewarded.
-
+Registrations are now open but you can sign up anytime between October 1 and October 31 in any time-zone. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
